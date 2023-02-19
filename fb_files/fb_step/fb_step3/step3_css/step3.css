@@ -1,0 +1,14 @@
+#Next_button
+{
+	font-size:18px;
+	height:35;
+	width:85;
+	padding:2;
+	background-color:#5B74A8; color:#FFFFFF;
+	border-top:#29447E;
+	border-right-color:#29447E;
+	border-bottom-color:#1A356E;
+	border-left-color:#29447E;
+	font-weight:bold;
+	box-shadow:5px 0px 7px 0px rgb(0,0,0);
+}

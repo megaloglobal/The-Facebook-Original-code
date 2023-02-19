@@ -1,0 +1,48 @@
+/* index file css */
+
+#login_button
+{
+	font-size:10px;
+	height:25;
+	width:60;
+	padding:2;
+	background-color:#5B74A8; color:#FFFFFF;
+	border-top:#29447E;
+	border-right-color:#29447E;
+	border-bottom-color:#1A356E;
+	border-left-color:#29447E;
+	font-weight:bold;
+}
+#mobile_button
+{
+	font-size:12px;
+	height:30;
+	width:150;
+	background-color:#5B74A8; color:#FFFFFF;
+	border-top:#29447E;
+	border-right-color:#29447E;
+	border-bottom-color:#1A356E;
+	border-left-color:#29447E;
+	font-weight:bold;
+}
+
+/* Sign Up */
+.inputbox
+{
+	height:38;
+	width:265;
+	font-size:18px;
+}
+#sign_button
+{
+	background:#69A74E;
+	color:#FFFFFF;
+	border-top-color:#3B6E22;
+	border-right-color:#2C5115;
+	border-left-color:#3B6E22;
+	font-size:18px;
+	height:40;
+	width:112;
+	font-weight:bold;
+	box-shadow:5px 0px 10px 1px rgb(0,0,0);
+}

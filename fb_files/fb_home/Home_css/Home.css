@@ -1,0 +1,29 @@
+#post_button
+{
+	font-size:12px;
+	height:25;
+	width:55;
+	padding:2;
+	background-color:#5B74A8; color:#FFFFFF;
+	border-top:#29447E;
+	border-right-color:#29447E;
+	border-bottom-color:#1A356E;
+	border-left-color:#29447E;
+	font-weight:bold;
+}
+#accept_button
+{
+	font-size:18px;
+	height:50;
+	width:250;
+	padding:2;
+	background-color:#5B74A8; 
+	color:#FFFFFF;
+	border-top:#29447E;
+	border-right-color:#29447E;
+	border-bottom-color:#1A356E;
+	border-left-color:#29447E;
+	font-weight:bold;
+	box-shadow:0px 0px 10px 1px rgb(0,0,0);
+}
+
